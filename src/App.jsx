@@ -256,7 +256,7 @@ function StakeView({ isConnected }) {
           </div>
 
           <p className="text-xs text-text-dim">
-            Distributed daily to stakers
+            Distributed at TGE to stakers
           </p>
         </div>
 
